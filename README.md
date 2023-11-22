@@ -3,4 +3,3 @@
 - /app directory contains React-Native Frontend Codebase with Presentation and Data Layer
 - /backend directory containts node.js backend end-points
 - /SESA-SSD-DOCUMENT.pdf contains explanation of project details! (Strongly suggested to read!)
-
